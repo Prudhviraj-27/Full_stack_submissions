@@ -1,1 +1,1 @@
-This is a readme file containing detailed documentation of the project
+Documentation of the project

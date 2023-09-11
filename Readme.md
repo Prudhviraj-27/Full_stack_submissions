@@ -1,4 +1,4 @@
-#Documentation of the project
+# Documentation of the project
 
--Name: Prudhvi Raj
--Email: prudhviraj.2700@gmail.com
+- Name: Prudhvi Raj
+- Email: prudhviraj.2700@gmail.com
